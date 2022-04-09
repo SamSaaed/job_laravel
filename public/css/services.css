@@ -1,0 +1,75 @@
+
+nav ul{
+    position: relative;
+    left: 400px;
+    font-size: 17px;
+ }
+    .btn {
+     width: 150px;
+     margin-left: 10px;
+     
+ }
+ .log{
+     text-decoration: none;
+     color: gray;
+     margin-left: 10px;
+     font-size: 17px;
+ }
+ .log:hover{
+     text-decoration: none;
+     color: rgb(238, 51, 51);
+ }
+ .brand{
+     position: relative;
+     left: 400px;
+ }
+ 
+ .icon ul li{
+    float: left;
+    padding: 5px;
+}
+.icon ul li a img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+   
+}
+.col h2{
+    text-align: right;
+}
+.col ul{
+    list-style: none;
+    text-align: right;
+}
+.col ul li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 15px;
+}
+.col ul li a:hover{
+    color: maroon;
+}
+.col ul li {
+    padding: 5px;
+}
+.container p{
+    font-size: 20px;
+}
+.container h1{
+    text-align: center;
+   
+   
+}
+.container h1 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.chance ,.chance1{
+    position: relative;
+    top:40px
+}
+.copy{
+    text-align: center;
+    font-size: 17px;
+}

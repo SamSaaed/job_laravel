@@ -1,0 +1,113 @@
+
+nav ul{
+    position: relative;
+    left: 80px;
+    font-size: 13px;
+    
+ }
+ nav ul li{
+     padding: 7px;
+ }
+    .btn {
+     width: 150px;
+     margin-left: 10px;
+     
+ }
+ .log{
+     text-decoration: none;
+     color: gray;
+     margin-left: 10px;
+     font-size: 17px;
+ }
+ .log:hover{
+     text-decoration: none;
+     color: rgb(238, 51, 51);
+ }
+ .brand{
+     position: relative;
+     left: 100px;
+ }
+ 
+ .icon ul li{
+    float: left;
+    padding: 5px;
+}
+.icon ul li a img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+   
+}
+.col h2{
+    text-align: right;
+}
+.col ul{
+    list-style: none;
+    text-align: right;
+}
+.col ul li a{
+    text-decoration: none;
+    color: gray;
+    font-size: 15px;
+}
+.col ul li a:hover{
+    color: maroon;
+}
+.col ul li {
+    padding: 5px;
+}
+.chance ,.chance1{
+    position: relative;
+    top:40px
+}
+.copy{
+    text-align: center;
+    font-size: 17px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #BA68C8
+}
+
+.profile-button {
+    background: rgb(99, 39, 120);
+    box-shadow: none;
+    border: none
+}
+
+.profile-button:hover {
+    background: #682773
+}
+
+.profile-button:focus {
+    background: #682773;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #682773;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #682773;
+    cursor: pointer
+}
+
+.labels {
+    font-size: 15px;
+
+}
+.row{
+    text-align: right;
+}
+input{
+    text-align: right;
+}
+.add-experience:hover {
+    background: #BA68C8;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #BA68C8
+}
